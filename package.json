@@ -1,11 +1,11 @@
 {
   "name": "nativescript-plugin-google-play-services",
-  "version": "26.0.2",
+  "version": "26.1.0",
   "license": "Apache-2.0",
   "repository": "https://github.com/NativeScript/nativescript-plugin-google-play-services.git",
   "nativescript": {
     "platforms": {
-      "android": "1.2.1"
+      "android": "1.4.0"
     }
   }
 }
